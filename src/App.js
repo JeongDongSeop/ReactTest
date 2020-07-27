@@ -10,6 +10,7 @@ function App() {
       </div>
       <div className="custCont">
         내용입니다.
+        내용2입니다.
       </div>
     </div>
   );
